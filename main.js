@@ -60,7 +60,7 @@ async function getVerses(params) {
 
 // Get twitter button to work
 function tweetVerse(params) {
-   const twitterUrl = `https://facebook.com/plugins/page.php?text=${verseText.textContent} - ${passageText.textContent}`;
+   const twitterUrl = `https://twitter.com/intent/tweet?text=${verseText.textContent} - ${passageText.textContent}`;
    window.open(twitterUrl, '_blank');
 }
 
