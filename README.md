@@ -7,3 +7,5 @@
 `Aesthetics`
 1. Gray and white design.
 2. Loader animation and so on.
+
+`https://solomonodunusi.github.io/Bible-Verse_Generator/`
