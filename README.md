@@ -1,4 +1,4 @@
-**Bible Verse Generator**
+# Bible Verse Generator
 
 `Functionality`
 1. It displays a random verse after clicking the button.
